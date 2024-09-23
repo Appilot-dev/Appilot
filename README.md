@@ -2,6 +2,27 @@
 
 **Appilot** is a platform for Ready-To-Use Social Media Automation Bots for Real Devices, Phones, and Emulators.
 
+<div align="center">
+  <a href="https://appilot.app/">
+    <img alt="Appilot Logo" width="30px" src="https://github.com/user-attachments/assets/47ffcb30-7ebf-4e02-b1d1-74677da7fa5c" />
+    <code>Appilot Website</code>
+  </a>
+  <span> ┃ </span>
+  <a href="https://discord.gg/3CZ5muJdF2">
+    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
+    <code>Appilot Discord</code>
+  </a> 
+  <span> ┃ </span>
+  <a href="https://www.blackhatworld.com/members/app_pilot.1954567/#recent-content">
+    <img alt="BHW Logo" width="30px" src="https://github.com/user-attachments/assets/db71d17a-42cb-4380-a463-7df203b0ab8f" />
+    <code>BHW Profile</code>
+  </a>
+  <br />
+  <strong>For more details, please join our Discord or visit our website. 👆👆👆</strong>
+</div>
+
+
+
 ## Platform Features
 
 1. ### Remote Dashboard:
