@@ -12,9 +12,9 @@
     <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>Appilot Discord</code>
   </a> 
-  <span> ┃ </span>
+  <<span> ┃ </span>
   <a href="https://www.blackhatworld.com/members/app_pilot.1954567/#recent-content">
-    <img alt="BHW Logo" width="30px" src="https://github.com/user-attachments/assets/db71d17a-42cb-4380-a463-7df203b0ab8f" />
+    <img alt="BHW Logo" width="40px" src="https://github.com/user-attachments/assets/42e01089-bce7-4404-b8c2-d7b4d4123aa6" />
     <code>BHW Profile</code>
   </a>
   <br />
