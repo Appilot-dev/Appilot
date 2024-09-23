@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://appilot.app/">
-    <img alt="Appilot Logo" width="30px" src="https://github.com/user-attachments/assets/47ffcb30-7ebf-4e02-b1d1-74677da7fa5c" />
+    <img alt="Appilot Logo" width="25px" src="https://github.com/user-attachments/assets/8e5f3af3-b098-4c1d-980d-df9aebc680d0" />
     <code>Appilot Website</code>
   </a>
   <span> ┃ </span>
