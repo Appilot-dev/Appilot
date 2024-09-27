@@ -23,7 +23,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e963e53d-94a6-4e44-8327-67b1d4b90f43" alt="Social Media automation bot">
+  <img src="https://github.com/user-attachments/assets/e963e53d-94a6-4e44-8327-67b1d4b90f43" alt="Social Media automation bot" width="870>
 </p>
 
 
