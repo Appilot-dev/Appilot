@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ff92b4d3-f581-4ae1-a8e1-c84e7f4a99e2" alt="Follower Growth" width="800">
 </p>
-
 <p align="center">
   <a href="https://appilot.app/contact-us" target="_blank">
     <img src="https://github.com/user-attachments/assets/dcb27187-8b14-493c-af77-621919272802" alt="button_request-more" width="200">
