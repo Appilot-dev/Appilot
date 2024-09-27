@@ -50,7 +50,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/34d5c8e4-2afa-4a6f-8644-f2671dddf48a" alt="Manage Mobile Automation" width="820">
+  <img src="https://github.com/user-attachments/assets/34d5c8e4-2afa-4a6f-8644-f2671dddf48a" alt="Manage Mobile Automation" width="800">
 </p>
 
 <p align="center">
