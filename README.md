@@ -21,6 +21,25 @@
   <strong>For more details, please join our Discord or visit our website. 👆👆👆</strong>
 </div>
 
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e963e53d-94a6-4e44-8327-67b1d4b90f43" alt="Social Media automation bot">
+</p>
+
+
+<p align="center">
+  <a href="https://appilot.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6b38c4e7-fcba-4e0d-b5d9-f375b107624f" alt="Sign-up-for-free Button" width="200">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the two images -->
+  <a href="https://appilot.app/store" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1721f15e-6d5d-4abb-9c31-7d8b5429c862" alt="Browse-bots Button" width="175">
+  </a>
+</p>
+
+
+
+
 
 
 ## Platform Features
