@@ -82,6 +82,10 @@
 </div>
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6eb5ec1-f026-4964-98a4-45c7ee7d6865" alt="Appilot Web Gif" width="870">
+</p>
+
 
 
 
