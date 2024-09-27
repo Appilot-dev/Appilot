@@ -54,8 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d648ede-14eb-471f-9ce4-d5aa616027c0" alt="Device Dashboard" width="800">
+  <img src="https://github.com/user-attachments/assets/c21f4777-985d-4a81-a87e-72d49ad5bdb4" alt="Device Dashboard" width="800">
 </p>
+
 
 
 
