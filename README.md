@@ -53,10 +53,10 @@
   <img src="https://github.com/user-attachments/assets/34d5c8e4-2afa-4a6f-8644-f2671dddf48a" alt="Manage Mobile Automation" width="820">
 </p>
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/17895e3a-411b-4a49-9a3e-992370e948d5" alt="Device Dashboard" width="800">
+  <img src="https://github.com/user-attachments/assets/1d648ede-14eb-471f-9ce4-d5aa616027c0" alt="Device Dashboard" width="800">
 </p>
+
 
 
 
