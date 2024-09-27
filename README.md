@@ -62,9 +62,9 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="width: 45%;">
 
-| Feature                           | Description                                                                 |
+| Feature                          | Description                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------|
 | Real Devices and Emulators        | Automate your social media accounts on Android, iPhone, and emulators.       |
 | No-ADB Wireless Automation        | Control your phone remotely through our dashboard, no ADB wire connection or laptop needed. |
@@ -77,6 +77,7 @@
 | Premium Support                   | We offer premium support to our users via Discord, ensuring quick and efficient assistance. |
 
 </div>
+
 
 
 
