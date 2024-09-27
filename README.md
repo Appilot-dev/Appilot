@@ -62,6 +62,23 @@
 </p>
 
 
+<div align="center">
+
+| Feature                           | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| Real Devices and Emulators        | Automate your social media accounts on Android, iPhone, and emulators.       |
+| No-ADB Wireless Automation        | Control your phone remotely through our dashboard, no ADB wire connection or laptop needed. |
+| Bots for All Social Media Platforms| Automate your activities across every major social media platform with our bot solutions. |
+| Mimicking Human Behavior          | Our bots operate just like a real person managing your social media account.  |
+| Multiple Accounts Support         | Easily manage multiple accounts across devices, allowing for seamless switching and control. |
+| Multi-Device Integration          | Automate thousands of accounts across devices with App Cloner integration for efficient management. |
+| Exponential Growth for Your Account| Accelerate your account’s growth with a warm-up process and strategy.        |
+| Growing Community                 | Join our Discord for updates, growth hacks, tips, and more.                  |
+| Premium Support                   | We offer premium support to our users via Discord, ensuring quick and efficient assistance. |
+
+</div>
+
+
 
 
 
