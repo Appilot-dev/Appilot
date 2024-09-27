@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0079adfa-5c06-483e-b305-daf0a6d40096" alt="Social Media Growth" width="820">
+  <img src="https://github.com/user-attachments/assets/0079adfa-5c06-483e-b305-daf0a6d40096" alt="Social Media Growth" width="800">
 </p>
 
 
