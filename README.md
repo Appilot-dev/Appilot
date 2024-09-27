@@ -54,8 +54,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c21f4777-985d-4a81-a87e-72d49ad5bdb4" alt="Device Dashboard" width="800">
+  <a href="https://appilot.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c21f4777-985d-4a81-a87e-72d49ad5bdb4" alt="Device Dashboard" width="800">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0079adfa-5c06-483e-b305-daf0a6d40096" alt="Social Media Growth" width="800">
