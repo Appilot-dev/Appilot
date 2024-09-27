@@ -38,7 +38,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ff92b4d3-f581-4ae1-a8e1-c84e7f4a99e2" alt="Follower Growth" width="800">
