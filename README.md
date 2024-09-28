@@ -240,6 +240,65 @@
 </a>
 
 
+<!-- X (Twitter) Card -->
+<div align="center">
+<a href="https://appilot.app/twitter-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/9538add9-e351-4024-b13b-bab3d9787eed" alt="X" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">X</strong><br>
+        <span style="color: grey;">/twitter-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with the...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
+</div>
+
+
+
+<!-- Gmail Card -->
+<div align="center">
+<a href="https://appilot.app/gmail-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/2521c015-0d82-47aa-b9da-cd0858c40fd8" alt="Gmail" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">Gmail</strong><br>
+        <span style="color: grey;">/gmail-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with the...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
+</div>
+
+
 
 ## Platform Features
 
