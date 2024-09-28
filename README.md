@@ -42,9 +42,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ff92b4d3-f581-4ae1-a8e1-c84e7f4a99e2" alt="Follower Growth" width="830">
   <a href="https://appilot.app/contact-us" target="_blank">
-    <img src="https://github.com/user-attachments/assets/dcb27187-8b14-493c-af77-621919272802" alt="button_request-more" width="200">
+    <img src="https://github.com/user-attachments/assets/bef1fbdb-3d32-43ea-b426-ebda2c829322" alt="Request More Button" width="200">
   </a>
 </p>
+
 
 
 
@@ -392,6 +393,9 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f24ebd0c-f9e9-4e36-8727-b17458518d7a" alt="Custom Mobile Automation" width="800">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf290211-dfbe-4dc7-84fe-61b06d82ec1d" alt="Join Discord Button" width="175">
 </p>
 
 
