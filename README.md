@@ -305,7 +305,7 @@
   <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/a69788cd-0072-44aa-bc16-4470a63363a2" alt="Snapchat" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
+        <img src="https://github.com/user-attachments/assets/fb21fc48-dc56-4d7c-9a14-1f23076be00b" alt="Snapchat" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
       </td>
       <td style="padding-left: 10px;">
         <strong style="color: black; font-size: 18px;">Snapchat</strong><br>
@@ -335,7 +335,7 @@
   <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/91bb5d48-3c65-4a33-a1fb-b0791d7828f7" alt="Tinder" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
+        <img src="https://github.com/user-attachments/assets/4639b056-1df6-4438-bf6f-7f2c3052d105" alt="Tinder" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
       </td>
       <td style="padding-left: 10px;">
         <strong style="color: black; font-size: 18px;">Tinder</strong><br>
@@ -344,7 +344,7 @@
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the...
+        Crawls websites using raw HTTP requests, parses the HTML with the ...
       </td>
     </tr>
     <tr>
@@ -356,6 +356,7 @@
   </table>
 </a>
 </div>
+
 
 
 
