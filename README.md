@@ -86,6 +86,103 @@
   <img src="https://github.com/user-attachments/assets/b6eb5ec1-f026-4964-98a4-45c7ee7d6865" alt="Appilot Web Gif" width="870">
 </p>
 
+<h1 align="center" style="margin-bottom: 0px;">Choose Your Bot</h1>
+<p align="center" style="margin-top: 0px; font-size: 16px;">
+  Start Automating your accounts using our bots from appilot store
+</p>
+
+
+<div align="center">
+  <a href="https://appilot.app/instagram-ms-individual-bot" target="_blank" style="text-decoration: none;">
+    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; max-width: 600px; background-color: #ffffff;">
+      <tr>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram M/S" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+        </td>
+        <td style="padding-left: 10px;">
+          <strong style="color: black; font-size: 18px;">Instagram M/S</strong><br>
+          <span style="color: grey;">/instagram-ms-individual-bot</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top: 10px; color: grey;">
+          Crawls websites using raw HTTP requests, parses the HTML with the...
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top: 10px;">
+          <span style="color: black; font-weight: bold;">Android</span>
+          <span style="float: right; color: grey;">1.4k users</span>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
+
+
+
+<!-- Reddit Card -->
+<div align="center">
+  <a href="https://appilot.app/reddit-individual-bot" target="_blank" style="text-decoration: none;">
+    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; max-width: 400px; background-color: #ffffff;">
+      <tr>
+        <td>
+          <img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+        </td>
+        <td style="padding-left: 10px;">
+          <strong style="color: black; font-size: 18px;">Reddit</strong><br>
+          <span style="color: grey;">/reddit-individual-bot</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top: 10px; color: grey;">
+          Crawls websites using raw HTTP requests, parses the HTML with the...
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top: 10px;">
+          <span style="color: black; font-weight: bold;">Android</span>
+          <span style="float: right; color: grey;">1.4k users</span>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
+
+
+
+<!-- Bumble Card -->
+<div align="center">
+  <a href="https://appilot.app/bumble-individual-bot" target="_blank" style="text-decoration: none;">
+    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+      <tr>
+        <td>
+          <img src="https://github.com/user-attachments/assets/ff4e921e-1752-4f83-a3f5-a46de6a5631e" alt="Bumble" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+        </td>
+        <td style="padding-left: 10px;">
+          <strong style="color: black; font-size: 18px;">Bumble</strong><br>
+          <span style="color: grey;">/bumble-individual-bot</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top: 10px; color: grey;">
+          Crawls websites using raw HTTP requests, parses the HTML with the...
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="padding-top: 10px;">
+          <span style="color: black; font-weight: bold;">Android</span>
+          <span style="float: right; color: grey;">1.4k users</span>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
+
+
 
 
 ## Platform Features
