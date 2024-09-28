@@ -183,6 +183,32 @@
 
 
 
+<!-- TikTok Card -->
+<div align="center">
+<a href="https://appilot.app/tiktok-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/de80270f-29de-4231-95ff-4f75ffcacf12" alt="TikTok" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">TikTok</strong><br>
+        <span style="color: grey;">/tiktok-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with the...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
 
 
 ## Platform Features
