@@ -86,13 +86,6 @@
   <img src="https://github.com/user-attachments/assets/b6eb5ec1-f026-4964-98a4-45c7ee7d6865" alt="Appilot Web Gif" width="870">
 </p>
 
-<h1 align="center" style="margin-bottom: 0;">Choose Your Bot</h1>
-<p align="center" style="margin-top: 0;">
-  Start Automating your accounts using our bots from appilot store
-</p>
-
-
-
 
 
 ## Platform Features
