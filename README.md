@@ -390,6 +390,13 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f24ebd0c-f9e9-4e36-8727-b17458518d7a" alt="Custom Mobile Automation" width="800">
+</p>
+
+
+
+
 ## Platform Features
 
 1. ### Remote Dashboard:
