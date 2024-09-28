@@ -393,10 +393,9 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f24ebd0c-f9e9-4e36-8727-b17458518d7a" alt="Custom Mobile Automation" width="800">
+  <img src="https://github.com/user-attachments/assets/cf290211-dfbe-4dc7-84fe-61b06d82ec1d" alt="Join Discord Button" width="175" style="vertical-align: top;">
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cf290211-dfbe-4dc7-84fe-61b06d82ec1d" alt="Join Discord Button" width="175">
-</p>
+
 
 
 
