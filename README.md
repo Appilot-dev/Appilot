@@ -390,6 +390,40 @@
 </div>
 
 
+<!-- Two Cards in Same Line -->
+<div style="display: flex; justify-content: space-around; gap: 20px; padding: 20px; align-items: center;">
+  <!-- YouTube Demos Card -->
+  <a href="https://appilot.app/" target="_blank" style="text-decoration: none;">
+    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff; text-align: left;">
+      <tr>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="YouTube Demos" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+        </td>
+        <td style="padding-left: 10px;">
+          <strong style="color: black; font-size: 18px;">YouTube Demos</strong><br>
+          <span style="color: grey;">Watch demos and tutorials </span>
+        </td>
+      </tr>
+    </table>
+  </a>
+
+  <!-- Documentations Card -->
+  <a href="https://appilot.gitbook.io/appilot-docs" target="_blank" style="text-decoration: none;">
+    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff; text-align: left;">
+      <tr>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Books_Icon.svg" alt="Documentation" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+        </td>
+        <td style="padding-left: 10px;">
+          <strong style="color: black; font-size: 18px;">Documentations</strong><br>
+          <span style="color: grey;">Detailed guides and instructions </span>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
+
 
 
 ## Platform Features
