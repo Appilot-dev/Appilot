@@ -299,6 +299,95 @@
 </div>
 
 
+<!-- Snapchat Card -->
+<div align="center">
+<a href="https://appilot.app/snapchat-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/a69788cd-0072-44aa-bc16-4470a63363a2" alt="Snapchat" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">Snapchat</strong><br>
+        <span style="color: grey;">/snapchat-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with the...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
+</div>
+
+
+
+<!-- Tinder Card -->
+<div align="center">
+<a href="https://appilot.app/tinder-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/91bb5d48-3c65-4a33-a1fb-b0791d7828f7" alt="Tinder" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">Tinder</strong><br>
+        <span style="color: grey;">/tinder-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
+</div>
+
+
+
+<!-- Chrome Card -->
+<div align="center">
+<a href="https://appilot.app/chrome-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/56fd25bc-6b5b-4f1a-ab67-3a1bd229becb" alt="Chrome" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">Chrome</strong><br>
+        <span style="color: grey;">/chrome-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
+</div>
+
+
 
 ## Platform Features
 
