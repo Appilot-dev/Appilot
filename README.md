@@ -211,6 +211,36 @@
 </a>
 
 
+
+
+<!-- Facebook Card -->
+<a href="https://appilot.app/facebook-individual-bot" target="_blank" style="text-decoration: none;">
+  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
+    <tr>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
+      </td>
+      <td style="padding-left: 10px;">
+        <strong style="color: black; font-size: 18px;">Facebook</strong><br>
+        <span style="color: grey;">/facebook-individual-bot</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; color: grey;">
+        Crawls websites using raw HTTP requests, parses the HTML with th...
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px;">
+        <span style="color: black; font-weight: bold;">Android</span>
+        <span style="float: right; color: grey;">1.4k users</span>
+      </td>
+    </tr>
+  </table>
+</a>
+
+
+
 ## Platform Features
 
 1. ### Remote Dashboard:
