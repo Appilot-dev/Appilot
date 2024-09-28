@@ -227,7 +227,7 @@
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with th...
+        Crawls websites using raw HTTP requests, parses the HTML with the ...
       </td>
     </tr>
     <tr>
@@ -344,7 +344,7 @@
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a...
+        Crawls websites using raw HTTP requests, parses the HTML with the...
       </td>
     </tr>
     <tr>
@@ -365,7 +365,7 @@
   <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/56fd25bc-6b5b-4f1a-ab67-3a1bd229becb" alt="Chrome" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
+        <img src="https://github.com/user-attachments/assets/56fd25bc-6b5b-4f1a-ab67-3a1bd229becb" alt="Chrome" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
       </td>
       <td style="padding-left: 10px;">
         <strong style="color: black; font-size: 18px;">Chrome</strong><br>
@@ -374,7 +374,7 @@
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a...
+        Crawls websites using raw HTTP requests, parses the HTML with the ...
       </td>
     </tr>
     <tr>
