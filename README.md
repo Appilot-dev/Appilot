@@ -392,8 +392,144 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f24ebd0c-f9e9-4e36-8727-b17458518d7a" alt="Custom Mobile Automation" width="800">
-  <img src="https://github.com/user-attachments/assets/cf290211-dfbe-4dc7-84fe-61b06d82ec1d" alt="Join Discord Button" width="175" style="vertical-align: top;">
+  <a href="https://discord.gg/3CZ5muJdF2">
+    <img src="https://github.com/user-attachments/assets/cf290211-dfbe-4dc7-84fe-61b06d82ec1d" alt="Join Discord Button" width="175" style="vertical-align: top;">
+  </a>
 </p>
+
+
+
+<!-- Merged Cards in Same Line -->
+<div style="display: flex; justify-content: center; padding: 20px;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- YouTube Demos Card -->
+      <td style="padding: 16px;">
+        <a href="https://www.youtube.com/@appilot-app" target="_blank" style="text-decoration: none; color: inherit;">
+          <table style="border: 1px solid lightgrey; border-radius: 10px; background-color: #ffffff; width: 250px;">
+            <tr>
+              <td style="padding: 16px;">
+                <img src="https://github.com/user-attachments/assets/1SHZsd9wl4b92EsbWDDiiBIi" alt="YouTube Demos" style="width: 40px; height: 40px; border-radius: 8px;">
+                <div>
+                  <strong style="color: black; font-size: 18px;">YouTube Demos</strong><br>
+                  <span style="color: grey;">Watch demos and tutorials to learn how to use Appilot effectively.</span>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <!-- Documentations Card -->
+      <td style="padding: 16px;">
+        <a href="https://appilot.gitbook.io/appilot-docs" target="_blank" style="text-decoration: none; color: inherit;">
+          <table style="border: 1px solid lightgrey; border-radius: 10px; background-color: #ffffff; width: 250px;">
+            <tr>
+              <td style="padding: 16px;">
+                <img src="https://github.com/user-attachments/assets/1SHZsd9wl4b92EsbWDDiiBIi" alt="Documentations" style="width: 40px; height: 40px; border-radius: 8px;">
+                <div>
+                  <strong style="color: black; font-size: 18px;">Documentations</strong><br>
+                  <span style="color: grey;">Detailed guides and instructions for using every feature of Appilot.</span>
+                </div>
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+<!-- Merged Cards in Same Line: Discord and Help and Support -->
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- Discord Card -->
+    <td style="padding: 10px;">
+      <a href="https://discord.gg/3CZ5muJdF2" target="_blank" style="text-decoration: none;">
+        <table style="border: 1px solid lightgrey; border-radius: 10px; width: 250px; background-color: #ffffff;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/2exvzTFw7O3fSIE6V6cijwo7" alt="Discord" style="width: 40px; height: 40px; vertical-align: middle;">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <strong style="color: black; font-size: 18px;">Discord</strong><br>
+              <span style="color: grey;">Join the Appilot community for assistance and discussions.</span>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+    <!-- Help and Support Card -->
+    <td style="padding: 10px;">
+      <a href="https://appilot.app/contact-us" target="_blank" style="text-decoration: none;">
+        <table style="border: 1px solid lightgrey; border-radius: 10px; width: 250px; background-color: #ffffff;">
+          <tr>
+            <td>
+              <img src="https://github.com/user-attachments/assets/nU1ujQl4lpVhJOPdIuKrhNJ5" alt="Help and Support" style="width: 40px; height: 40px; vertical-align: middle;">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <strong style="color: black; font-size: 18px;">Help and Support</strong><br>
+              <span style="color: grey;">Get help with any issues or questions from our support team.</span>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- Merged About Appilot and Blog in One Line -->
+<div style="padding: 0; text-align: left;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- About Appilot Card -->
+      <td style="padding: 16px;">
+        <a href="https://appilot.app/" target="_blank" style="text-decoration: none;">
+          <table style="border: 1px solid lightgrey; border-radius: 10px; width: 300px; background-color: #ffffff;">
+            <tr>
+              <td style="padding: 16px;">
+                <img src="https://github.com/user-attachments/assets/WrG4YktvN0gdeR4MNc25PhcV" alt="About Appilot" style="width: 40px; height: 40px; vertical-align: middle;">
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 16px;">
+                <strong style="color: black; font-size: 18px;">About Appilot</strong><br>
+                <span style="color: grey;">Learn more about Appilot’s mission and the team behind the platform.</span>
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <!-- Blog Card -->
+      <td style="padding: 16px;">
+        <a href="https://medium.com/@appilot" target="_blank" style="text-decoration: none;">
+          <table style="border: 1px solid lightgrey; border-radius: 10px; width: 300px; background-color: #ffffff;">
+            <tr>
+              <td style="padding: 16px;">
+                <img src="https://github.com/user-attachments/assets/WrG4YktvN0gdeR4MNc25PhcV" alt="Blog" style="width: 40px; height: 40px; vertical-align: middle;">
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 16px;">
+                <strong style="color: black; font-size: 18px;">Blog</strong><br>
+                <span style="color: grey;">Stay updated with the latest news, tips, and insights from Appilot.</span>
+              </td>
+            </tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
