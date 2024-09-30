@@ -540,8 +540,10 @@
 </div>
 
 
-
-
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad32f419-417a-453d-8e9f-498fa379cef0" alt="Manage Mobile Automation" width="620">
+</p>
 
 
 ## Platform Features
