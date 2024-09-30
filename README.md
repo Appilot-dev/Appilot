@@ -398,6 +398,12 @@
 </p>
 
 
+<h1 align="center" style="margin-bottom: 0px;">Learn More</h1>
+<p align="center" style="margin-top: 0px; font-size: 16px;">
+  Master Social media automation with mobile, and find answers and help from our expert.
+</p>
+
+
 
 <!-- Merged Cards in Same Line -->
 <div style="display: flex; justify-content: center; padding: 20px;">
