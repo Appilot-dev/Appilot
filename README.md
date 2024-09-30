@@ -541,36 +541,9 @@
 
 
 <br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ad32f419-417a-453d-8e9f-498fa379cef0" alt="Manage Mobile Automation" width="620">
-</p>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/4cfd71e3-9099-4ce2-b4ca-0a49ee9c9486" alt="Manage Mobile Automation" width="680">
+  <br>
+  <img src="https://github.com/user-attachments/assets/cb1e56ee-ec23-4d6e-b8de-d6b23bfd5e35" alt="Contact Us" width="170">
+</div>
 
-
-## Platform Features
-
-1. ### Remote Dashboard:
-All phones and emulators will be managed remotely through a dashboard, with no need for a laptop or ADB connection. Users can log in to the dashboard, attach his phone to dashboard remotely Via an app.  schedule a bot to run on phone, log out, and the bot will run at the set time. No Laptop software installation on your laptop is required.
-
-2. ### Mobile Farms:
-You can add unlimited phones or devices to your dashboard for automation, creating a large-scale Mobile farm without worrying about laptops or connection issues.
-
-3. ### Real Devices Only:
-The platform will support Android phones, emulators, and, allowing multiple apps on a single device.
-
-4. ### Grow Your Followers:
-Grow your followers with real strategies, not unreliable spoofed web automation or APIs bots. 
-
-5. ### 40+ Social Media Platforms:
-I’ve developed bots for over 10 platforms, with new ones added weekly, including Facebook, Instagram, Bumble, Reddit, X, and TikTok.
-
-6. ### Mimicking Human Behavior:
-The bots will mimic human actions like typing, random video watch time, and varied behavior patterns.
-
-7. ### Multiple Accounts on a Single Device
-One phone can manage multiple accounts through app cloning and spoofing. it means a single Samsung device can run up to 20-30 instagram easily sequentially. 
-
-8. ### Growth for Accounts
-Our platform offers various strategies to grow or warm up your accounts in bulk or individuals. 
-
-9. ### Solutions for Agencies and Individuals
-With no limitations on the number of phones, agencies can use thousands of devices, while individuals can use daily automation to grow at their own pace.
