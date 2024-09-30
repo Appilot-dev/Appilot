@@ -412,7 +412,7 @@
                 <img src="https://github.com/user-attachments/assets/1SHZsd9wl4b92EsbWDDiiBIi" alt="YouTube Demos" style="width: 40px; height: 40px; border-radius: 8px;">
                 <div>
                   <strong style="color: black; font-size: 18px;">YouTube Demos</strong><br>
-                  <span style="color: grey;">Watch demos and tutorials to learn how to use Appilot effectively.</span>
+                  <span style="color: grey;">Watch demos and tutorials to learn how to use Appilot...  </span>
                 </div>
               </td>
             </tr>
@@ -503,7 +503,7 @@
             <tr>
               <td style="padding: 16px;">
                 <strong style="color: black; font-size: 18px;">About Appilot</strong><br>
-                <span style="color: grey;">Learn more about Appilot’s mission and the team behind the platform.</span>
+                <span style="color: grey;">Learn more about Appilot’s mission and the team behind...  </span>
               </td>
             </tr>
           </table>
