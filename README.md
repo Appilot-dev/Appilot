@@ -415,10 +415,10 @@
           <table style="border: 1px solid lightgrey; border-radius: 10px; background-color: #ffffff; width: 250px;">
             <tr>
               <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/1SHZsd9wl4b92EsbWDDiiBIi" alt="YouTube Demos" style="width: 40px; height: 40px; border-radius: 8px;">
+                <img src="https://github.com/user-attachments/assets/e9a062fc-91be-400a-84e6-298760dffe10" alt="YouTube Demos" style="width: 40px; height: 40px; border-radius: 8px;">
                 <div>
                   <strong style="color: black; font-size: 18px;">YouTube Demos</strong><br>
-                  <span style="color: grey;">Watch demos and tutorials to learn how to use Appilot...  </span>
+                  <span style="color: grey;">Watch demos and tutorials to learn how to use Appilot...</span>
                 </div>
               </td>
             </tr>
@@ -431,7 +431,7 @@
           <table style="border: 1px solid lightgrey; border-radius: 10px; background-color: #ffffff; width: 250px;">
             <tr>
               <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/1SHZsd9wl4b92EsbWDDiiBIi" alt="Documentations" style="width: 40px; height: 40px; border-radius: 8px;">
+                <img src="https://github.com/user-attachments/assets/825cac6f-7ea1-419a-bc72-5aa3148b14e6" alt="Documentations" style="width: 40px; height: 40px; border-radius: 8px;">
                 <div>
                   <strong style="color: black; font-size: 18px;">Documentations</strong><br>
                   <span style="color: grey;">Detailed guides and instructions for using every feature of Appilot.</span>
@@ -448,6 +448,7 @@
 
 
 
+
 <!-- Merged Cards in Same Line: Discord and Help and Support -->
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -457,7 +458,7 @@
         <table style="border: 1px solid lightgrey; border-radius: 10px; width: 250px; background-color: #ffffff;">
           <tr>
             <td>
-              <img src="https://github.com/user-attachments/assets/2exvzTFw7O3fSIE6V6cijwo7" alt="Discord" style="width: 40px; height: 40px; vertical-align: middle;">
+              <img src="https://github.com/user-attachments/assets/a6404c9f-54fb-4d7a-beb5-bd0282b63285" alt="Discord" style="width: 40px; height: 40px; vertical-align: middle;">
             </td>
           </tr>
           <tr>
@@ -475,7 +476,7 @@
         <table style="border: 1px solid lightgrey; border-radius: 10px; width: 250px; background-color: #ffffff;">
           <tr>
             <td>
-              <img src="https://github.com/user-attachments/assets/nU1ujQl4lpVhJOPdIuKrhNJ5" alt="Help and Support" style="width: 40px; height: 40px; vertical-align: middle;">
+              <img src="https://github.com/user-attachments/assets/cb59c1d1-addc-4bd3-97e0-a272ed8f51f7" alt="Help and Support" style="width: 40px; height: 40px; vertical-align: middle;">
             </td>
           </tr>
           <tr>
@@ -493,6 +494,7 @@
 
 
 
+
 <!-- Merged About Appilot and Blog in One Line -->
 <div style="padding: 0; text-align: left;">
   <table style="border-collapse: collapse; border: none;">
@@ -503,7 +505,7 @@
           <table style="border: 1px solid lightgrey; border-radius: 10px; width: 300px; background-color: #ffffff;">
             <tr>
               <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/WrG4YktvN0gdeR4MNc25PhcV" alt="About Appilot" style="width: 40px; height: 40px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/2658b45a-a288-4b54-b8be-7c6de66d65d6" alt="About Appilot" style="width: 40px; height: 40px; vertical-align: middle;">
               </td>
             </tr>
             <tr>
@@ -521,7 +523,7 @@
           <table style="border: 1px solid lightgrey; border-radius: 10px; width: 300px; background-color: #ffffff;">
             <tr>
               <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/WrG4YktvN0gdeR4MNc25PhcV" alt="Blog" style="width: 40px; height: 40px; vertical-align: middle;">
+                <img src="https://github.com/user-attachments/assets/21a93c04-4192-4488-9ac1-f2aede56e96b" alt="Blog" style="width: 40px; height: 40px; vertical-align: middle;">
               </td>
             </tr>
             <tr>
@@ -536,6 +538,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
