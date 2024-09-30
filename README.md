@@ -544,6 +544,9 @@
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/4cfd71e3-9099-4ce2-b4ca-0a49ee9c9486" alt="Manage Mobile Automation" width="680">
   <br>
-  <img src="https://github.com/user-attachments/assets/cb1e56ee-ec23-4d6e-b8de-d6b23bfd5e35" alt="Contact Us" width="170">
+  <a href="https://appilot.app/contact-us" target="_blank">
+    <img src="https://github.com/user-attachments/assets/cb1e56ee-ec23-4d6e-b8de-d6b23bfd5e35" alt="Contact Us" width="200">
+  </a>
 </div>
+
 
