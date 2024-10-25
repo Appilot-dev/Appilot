@@ -1,6 +1,16 @@
-<h1 align="center">Appilot</h1>
+<h1 align="center">What is Appilot</h1>
 
-**Appilot** is a platform for Ready-To-Use Social Media Automation Bots for Real Devices, Phones, and Emulators.
+**Appilot** is a platform for Ready-To-Use Social Media Automation Bots for Real Devices, Phones, and Emulators. Appilot lets you remotely automate social media apps on Android devices. By registering your device through the Appilot console, you can select an app like Reddit, Instagram, or Facebook, set your preferences, and run the bot.
+The bot will automate your Account.
+
+Appilot does not require a wired connection from your Android to your computer helps users save time and grow their social media accounts through real device automation.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7a66fa43-4c64-4d98-8adf-e80220ae3f54" alt="Appilot Dashboard" width="970px">
+</div>
+
+
 
 <div align="center">
   <a href="https://appilot.app/">
@@ -13,540 +23,211 @@
     <code>Appilot Discord</code>
   </a> 
   <<span> ┃ </span>
-  <a href="https://www.blackhatworld.com/members/app_pilot.1954567/#recent-content">
-    <img alt="BHW Logo" width="40px" src="https://github.com/user-attachments/assets/42e01089-bce7-4404-b8c2-d7b4d4123aa6" />
-    <code>BHW Profile</code>
-  </a>
-  <br />
+  <a href="https://t.me/appilotdev">
+    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+    <code>Appilot Telegram</code>
+</a>
+<span> ┃ </span>
+
+
   <strong>For more details, please join our Discord or visit our website. 👆👆👆</strong>
 </div>
 
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e963e53d-94a6-4e44-8327-67b1d4b90f43" alt="Social Media automation bot" width="840>
-</p>
+
+Appilot offers a variety of bots for different social media platforms, accessible through the Appilot Store. The platform leverages custom Android/iOS Phones and emulators, mobile farms, and bots operating on real devices to automate tasks across social media platforms
 
 
-<p align="center">
-  <a href="https://appilot.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6b38c4e7-fcba-4e0d-b5d9-f375b107624f" alt="Sign-up-for-free Button" width="200">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the two images -->
-  <a href="https://appilot.app/store" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1721f15e-6d5d-4abb-9c31-7d8b5429c862" alt="Browse-bots Button" width="175">
-  </a>
-</p>
+## How Appilot Works:
+Appilot’s automation features allow you to run bots on multiple devices, handling tasks like posting content, interacting with followers, or liking posts.
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ff92b4d3-f581-4ae1-a8e1-c84e7f4a99e2" alt="Follower Growth" width="830">
-  <a href="https://appilot.app/contact-us" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bef1fbdb-3d32-43ea-b426-ebda2c829322" alt="Request More Button" width="200">
-  </a>
-</p>
+Appilot integrates automation scripts and bots with your desired applications, executing them in the cloud provides you with greater flexibility and convenience.
 
 
+## Features
 
 
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/34d5c8e4-2afa-4a6f-8644-f2671dddf48a" alt="Manage Mobile Automation" width="800">
-</p>
-
-<p align="center">
-  <a href="https://appilot.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c21f4777-985d-4a81-a87e-72d49ad5bdb4" alt="Device Dashboard" width="800">
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0079adfa-5c06-483e-b305-daf0a6d40096" alt="Social Media Growth" width="800">
-</p>
-
-
-<div align="center" style="width: 45%;">
-
-| Feature                          | Description                                                                 |
+| Feature                           | Description                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------|
-| Real Devices and Emulators        | Automate your social media accounts on Android, iPhone, and emulators.       |
-| No-ADB Wireless Automation        | Control your phone remotely through our dashboard, no ADB wire connection or laptop needed. |
-| Bots for All Social Media Platforms| Automate your activities across every major social media platform with our bot solutions. |
-| Mimicking Human Behavior          | Our bots operate just like a real person managing your social media account.  |
-| Multiple Accounts Support         | Easily manage multiple accounts across devices, allowing for seamless switching and control. |
-| Multi-Device Integration          | Automate thousands of accounts across devices with App Cloner integration for efficient management. |
-| Exponential Growth for Your Account| Accelerate your account’s growth with a warm-up process and strategy.        |
-| Growing Community                 | Join our Discord for updates, growth hacks, tips, and more.                  |
-| Premium Support                   | We offer premium support to our users via Discord, ensuring quick and efficient assistance. |
+| **Custom Automation Solutions**       | Tailored automation bots for specific social media platforms and tasks, including Instagram, TikTok, Reddit, and more. |
+| **Mother-Slave Method Automation**    | Advanced techniques for efficient social media growth and engagement through bot networks. |
+| **Real Device Focused Automation**    | Emulates human behavior on real Android/iOS devices to avoid detection, offering more secure automation. |
+| **Mobile Proxy & SIM Data Support**   | Bots use mobile proxies or SIM data to bypass IP tracking, preventing account bans. |
+| **Wireless, Non-ADB Automation**      | Unique wireless automation method that does not rely on ADB (wired connection), allowing for remote control and no USB tethering. |
+| **Mobile Farm Setup**                 | Consultancy and implementation for managing multiple devices simultaneously for large-scale automation. |
+| **Appilot Remote Control**            | Free Appilot account provided for remote bot management, enabling wireless operation from anywhere. |
+| **ChatGPT-Enabled Bots**              | Integrates advanced AI for natural interactions in comments, stories, and posts. |
+| **Human-Like Behavior Emulation**     | Mimics human actions on mobile devices, reducing the likelihood of being flagged by social media algorithms. |
+| **Advanced Technology Stack**         | Uses Appium, XCUITest, Python, Java, AutoTouch, and iOS reverse engineering for robust mobile automation. |
+| **Free Post-Project Support**         | Offers 15 days of free support after project completion to ensure smooth operation. |
+| **Real-Time Device Management**       | Simultaneously manage 25–50 Instagram apps on a single Android device using mobile proxies. |
+| **Professional Bot Development**      | Full-service custom bot development tailored to your social media needs, built within your timeline and budget. |
+| **Exponential Account Growth**        | Boost your account growth with tailored warm-up strategies and automation. |
+| **Growing Community**                 | Join our Discord for updates, growth hacks, tips, and community support. |
+| **Premium Support**                   | Dedicated premium support to assist you with setup and automation issues. |
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/43a88536-93cc-4d3d-8746-b5ea72c707f9" alt="BOTS DEMO" width="700px">
 </div>
 
+# Getting Started with Appilot
+
+
+### Create Your Account:
+Getting started with **Appilot** is a breeze. Here's how you can create your account and start automating your social media tasks:
+
+The first step is signing up.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/615782bb-d833-49a6-a4d1-85e8eca86754" alt="Create Account" width="650px">
+</div>
+
+
+### Where You Would Select Your Bot:
+After logging in, you’ll be greeted by your **Appilot** dashboard. It’s user-friendly and wellorganized, providing you with a clear overview of all your tasks, devices, and bot activities.
+
+- **Select Your Bot:** Choose your desired bot.
+- **Download the APK:** Click "**Add to Phone**" to download
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fafab1b3-4119-47cb-9c87-3243d10b06a2" alt="Select your bot" width="660px">
+</div>
+
+- **Install the APK:** Transfer and install it on your mobile device.
+- **Grant Permissions:** Allow Restricted settings + necessary permissions for functionality.
+- **Verify Your Device:** Check the Devices tab on console.appilot to ensure your device
+is listed.
+
+From the dashboard, you can track your progress, monitor active bots, and quickly
+navigate through various option.
+
+
+## Run Your Bot to Start Automation:
+
+### 1: Create A Bot Task:
+Head over to the bot store, browse through available options, and pick the one that best suits your needs. Once you've found the right bot, click "**Create Task**" and give your task a meaningful name.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a474fa50-adab-435b-af74-6d52f4708633" alt="bot task" width="600px">
+</div>
+
+
+### 2: CONFIGURE TASK TAB:
+Once your account is verified, head to the **Task Tab**. This is where it’s time to configure. Navigate to the Tasks tab, where you’ll input essential details. Select your device, **customize functions**, **set up the schedule**, and **save your configuration**.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a1f5c9d9-bfed-4413-8302-1541c2cf59cd" alt="configure" width="620px">
+</div>
+
+
+### 3: GIVE INPUTS:
+To ensure your bot runs correctly, provide all necessary inputs for its functions. Whether it’s data entry, social interactions, or other automated actions, make sure to be specific.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/52cb666a-6eb6-4bdf-9aaf-2395519d72b0" alt="Give Input" width="600px">
+</div>
+
+
+### 4: SELECT THE DEVICE:
+Choose the device(s) where you want your bot to run. This is essential for smooth performance and proper synchronization across platforms.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/713a9ccd-8004-42c1-a3da-f08f46906321" alt="select device" width="600px">
+</div>
+
+
+### 4: SCHEDULE AND START:
+Finally, decide when your bot will kick into action by setting the schedule. Once ready, hit “Save and Start,” and you’re all set!
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/65953ec6-b6a4-4933-90b4-5fb4f224f244" alt="Schedule and start" width="600px">
+</div>
+
+
+
+Once ready, hit “**Save and Start**,” and you’re all set!
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c4aa6ed0-c261-46de-a565-8ea627ae784a" alt="Save and Start" width="450px">
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6eb5ec1-f026-4964-98a4-45c7ee7d6865" alt="Appilot Web Gif" width="870">
 </p>
 
-<h1 align="center" style="margin-bottom: 0px;">Choose Your Bot</h1>
-<p align="center" style="margin-top: 0px; font-size: 16px;">
-  Start Automating your accounts using our bots from appilot store
-</p>
 
 
-<div align="center">
-  <a href="https://appilot.app/instagram-ms-individual-bot" target="_blank" style="text-decoration: none;">
-    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; max-width: 600px; background-color: #ffffff;">
-      <tr>
-        <td>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram M/S" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-        </td>
-        <td style="padding-left: 10px;">
-          <strong style="color: black; font-size: 18px;">Instagram M/S</strong><br>
-          <span style="color: grey;">/instagram-ms-individual-bot</span>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding-top: 10px; color: grey;">
-          Crawls websites using raw HTTP requests, parses the HTML with the...
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding-top: 10px;">
-          <span style="color: black; font-weight: bold;">Android</span>
-          <span style="float: right; color: grey;">1.4k users</span>
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
+## FAQs
+
+**Question:  Why Choose Real Device Automation Over PC Browser Automation?**
+
+**Answer:** We prioritize Android automation because social media algorithms have become increasingly sophisticated. Browser-based bots and API-driven tools often expose data such as fingerprints and IPs, leading to quick account bans. In contrast, using multiple Android devices, each running 25–50 Instagram apps with mobile proxies or SIM data, provides a more secure and effective solution. Real device bots more accurately mimic human behavior and can bypass social media’s strict detection systems.
+
+
+**Question:  How Does Social Media Automation Work on Real Devices?**
+
+**Answer:** Our bots run on real Android and iOS devices, using mobile proxies or SIM data to avoid detection. This setup closely mimics human behavior, ensuring better engagement and reducing the risk of being flagged by platforms like Instagram and TikTok.
 
 
 
+**Question:  Can Your Automation Bots Work on Any Social Media Platform, Android, iOS Device, or Emulator?**
 
-<!-- Reddit Card -->
-<div align="center">
-  <a href="https://appilot.app/reddit-individual-bot" target="_blank" style="text-decoration: none;">
-    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; max-width: 400px; background-color: #ffffff;">
-      <tr>
-        <td>
-          <img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-        </td>
-        <td style="padding-left: 10px;">
-          <strong style="color: black; font-size: 18px;">Reddit</strong><br>
-          <span style="color: grey;">/reddit-individual-bot</span>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding-top: 10px; color: grey;">
-          Crawls websites using raw HTTP requests, parses the HTML with the...
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding-top: 10px;">
-          <span style="color: black; font-weight: bold;">Android</span>
-          <span style="float: right; color: grey;">1.4k users</span>
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
+**Answer:** Yes, we can build bots on any social media platforms, including Instagram, TikTok, Reddit, LinkedIn, or any. We specialize in automating tasks on Android, iOS devices, and emulators,Our solutions are customized to fit your specific needs.
 
 
+Q**uestion:  What is a mobile farm, and how can it help my business?**
+
+**Answer:** A mobile farm involves managing multiple mobile devices simultaneously for tasks like social media automation. We provide both consultancy and implementation services to help you set up and manage a custom mobile farm, allowing you to scale your operations efficiently.
 
 
-<!-- Bumble Card -->
-<div align="center">
-  <a href="https://appilot.app/bumble-individual-bot" target="_blank" style="text-decoration: none;">
-    <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-      <tr>
-        <td>
-          <img src="https://github.com/user-attachments/assets/ff4e921e-1752-4f83-a3f5-a46de6a5631e" alt="Bumble" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-        </td>
-        <td style="padding-left: 10px;">
-          <strong style="color: black; font-size: 18px;">Bumble</strong><br>
-          <span style="color: grey;">/bumble-individual-bot</span>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding-top: 10px; color: grey;">
-          Crawls websites using raw HTTP requests, parses the HTML with the...
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="padding-top: 10px;">
-          <span style="color: black; font-weight: bold;">Android</span>
-          <span style="float: right; color: grey;">1.4k users</span>
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
+**Question:  Can You Integrate ChatGPT into Social Media Bots?**
+
+**Answer:** Yes, we can create chatbots using advanced AI models like ChatGPT, enabling natural, human-like interactions with users. This helps enhance customer engagement and improve interactions on your social media accounts.
+
+
+**Question:  What Technologies Do You Use for Mobile Automation?**
+
+**Answer:** We use technologies like Appium, Appilot(Handle mobile remotely), XCUITest, Python, Java, JavaScript, iOS reverse engineering, AutoTouch, ChatGPT-powered chatbots, and human-like behavior emulation for mobile automation.
+
+
+**Question:  What is the Difference Between ADB and Non-ADB Solutions?**
+
+**Answer:** ADB Solution : A tool that enables communication between a computer and an Android device for automation. Bots built using ADB require a wired USB connection between the mobile device and the computer. The software runs on the computer, sending commands to the mobile device for execution. However, this method can be detected by some apps.
+
+
+**Question:  What Are the Drawbacks of Using ADB (Wired Connection)?**
+
+**Answer:**
+- Frequent disconnections requiring replugging.
+- Accelerates battery drain and impacts battery health.
+- Lacks remote access capabilities.
+- Limited device connections per laptop.
+- May experience lag during use.
+
+
+**Question:  What Sets Your Appilot Apart?**
+
+**Answer:**
+1. Advanced tech stack, staying ahead of industry trends.
+2. Capable of handling large workloads with an in-house development team.
+3. Free 15-day support after project completion.
+4. Unique non-ADB, wireless automation—unlike others relying on wired solutions.
+5. Includes a free Appilot account for remote control.
+
+
+**Question: Looking for a custom mobile automation bot?**
+
+**Answer:** Let us handle the development for you! We’ll create a bot for your chosen social media platform with your desired features within your specified timeline and budget.
+Join our discord server and open a ticket or email us direclty.
 
 
 
-<!-- TikTok Card -->
-<div align="center">
-<a href="https://appilot.app/tiktok-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/de80270f-29de-4231-95ff-4f75ffcacf12" alt="TikTok" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">TikTok</strong><br>
-        <span style="color: grey;">/tiktok-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
+## Contact Us:
 
+**Email:** [support@appilot.app](mailto:support@appilot.app)
 
+**Discord:** [Join our Server](https://discord.gg/bT8bE3vbSY)
 
-
-<!-- Facebook Card -->
-<a href="https://appilot.app/facebook-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">Facebook</strong><br>
-        <span style="color: grey;">/facebook-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the ...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
-
-
-<!-- X (Twitter) Card -->
-<div align="center">
-<a href="https://appilot.app/twitter-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/9538add9-e351-4024-b13b-bab3d9787eed" alt="X" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">X</strong><br>
-        <span style="color: grey;">/twitter-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
-</div>
-
-
-
-<!-- Gmail Card -->
-<div align="center">
-<a href="https://appilot.app/gmail-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/2521c015-0d82-47aa-b9da-cd0858c40fd8" alt="Gmail" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">Gmail</strong><br>
-        <span style="color: grey;">/gmail-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
-</div>
-
-
-<!-- Snapchat Card -->
-<div align="center">
-<a href="https://appilot.app/snapchat-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/fb21fc48-dc56-4d7c-9a14-1f23076be00b" alt="Snapchat" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">Snapchat</strong><br>
-        <span style="color: grey;">/snapchat-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
-</div>
-
-
-
-<!-- Tinder Card -->
-<div align="center">
-<a href="https://appilot.app/tinder-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/4639b056-1df6-4438-bf6f-7f2c3052d105" alt="Tinder" style="width: 48px; height: 48px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">Tinder</strong><br>
-        <span style="color: grey;">/tinder-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the ...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
-</div>
-
-
-
-
-<!-- Chrome Card -->
-<div align="center">
-<a href="https://appilot.app/chrome-individual-bot" target="_blank" style="text-decoration: none;">
-  <table style="border: 1px solid lightgrey; border-radius: 10px; padding: 16px; width: 250px; background-color: #ffffff;">
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/56fd25bc-6b5b-4f1a-ab67-3a1bd229becb" alt="Chrome" style="width: 40px; height: 40px; vertical-align: middle; border-radius: 8px;">
-      </td>
-      <td style="padding-left: 10px;">
-        <strong style="color: black; font-size: 18px;">Chrome</strong><br>
-        <span style="color: grey;">/chrome-individual-bot</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px; color: grey;">
-        Crawls websites using raw HTTP requests, parses the HTML with the ...
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding-top: 10px;">
-        <span style="color: black; font-weight: bold;">Android</span>
-        <span style="float: right; color: grey;">1.4k users</span>
-      </td>
-    </tr>
-  </table>
-</a>
-</div>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f24ebd0c-f9e9-4e36-8727-b17458518d7a" alt="Custom Mobile Automation" width="800">
-  <a href="https://discord.gg/3CZ5muJdF2">
-    <img src="https://github.com/user-attachments/assets/cf290211-dfbe-4dc7-84fe-61b06d82ec1d" alt="Join Discord Button" width="175" style="vertical-align: top;">
-  </a>
-</p>
-
-
-<h1 align="center" style="margin-bottom: 0px;">Learn More</h1>
-<p align="center" style="margin-top: 0px; font-size: 16px;">
-  Master Social media automation with mobile, and find answers and help from our expert.
-</p>
-
-
-
-<!-- Merged Cards in Same Line -->
-<div style="display: flex; justify-content: center; padding: 20px;">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <!-- YouTube Demos Card -->
-      <td style="padding: 16px;">
-        <a href="https://www.youtube.com/@appilot-app" target="_blank" style="text-decoration: none; color: inherit;">
-          <table style="border: 1px solid lightgrey; border-radius: 10px; background-color: #ffffff; width: 250px;">
-            <tr>
-              <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/e9a062fc-91be-400a-84e6-298760dffe10" alt="YouTube Demos" style="width: 40px; height: 40px; border-radius: 8px;">
-                <div>
-                  <strong style="color: black; font-size: 18px;">YouTube Demos</strong><br>
-                  <span style="color: grey;">Watch demos and tutorials to learn how to use Appilot...</span>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </a>
-      </td>
-      <!-- Documentations Card -->
-      <td style="padding: 16px;">
-        <a href="https://appilot.gitbook.io/appilot-docs" target="_blank" style="text-decoration: none; color: inherit;">
-          <table style="border: 1px solid lightgrey; border-radius: 10px; background-color: #ffffff; width: 250px;">
-            <tr>
-              <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/825cac6f-7ea1-419a-bc72-5aa3148b14e6" alt="Documentations" style="width: 40px; height: 40px; border-radius: 8px;">
-                <div>
-                  <strong style="color: black; font-size: 18px;">Documentations</strong><br>
-                  <span style="color: grey;">Detailed guides and instructions for using every feature of Appilot.</span>
-                </div>
-              </td>
-            </tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-<!-- Merged Cards in Same Line: Discord and Help and Support -->
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <!-- Discord Card -->
-    <td style="padding: 10px;">
-      <a href="https://discord.gg/3CZ5muJdF2" target="_blank" style="text-decoration: none;">
-        <table style="border: 1px solid lightgrey; border-radius: 10px; width: 250px; background-color: #ffffff;">
-          <tr>
-            <td>
-              <img src="https://github.com/user-attachments/assets/a6404c9f-54fb-4d7a-beb5-bd0282b63285" alt="Discord" style="width: 40px; height: 40px; vertical-align: middle;">
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong style="color: black; font-size: 18px;">Discord</strong><br>
-              <span style="color: grey;">Join the Appilot community for assistance and discussions.</span>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-    <!-- Help and Support Card -->
-    <td style="padding: 10px;">
-      <a href="https://appilot.app/contact-us" target="_blank" style="text-decoration: none;">
-        <table style="border: 1px solid lightgrey; border-radius: 10px; width: 250px; background-color: #ffffff;">
-          <tr>
-            <td>
-              <img src="https://github.com/user-attachments/assets/cb59c1d1-addc-4bd3-97e0-a272ed8f51f7" alt="Help and Support" style="width: 40px; height: 40px; vertical-align: middle;">
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <strong style="color: black; font-size: 18px;">Help and Support</strong><br>
-              <span style="color: grey;">Get help with any issues or questions from our support team.</span>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-<!-- Merged About Appilot and Blog in One Line -->
-<div style="padding: 0; text-align: left;">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <!-- About Appilot Card -->
-      <td style="padding: 16px;">
-        <a href="https://appilot.app/" target="_blank" style="text-decoration: none;">
-          <table style="border: 1px solid lightgrey; border-radius: 10px; width: 300px; background-color: #ffffff;">
-            <tr>
-              <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/2658b45a-a288-4b54-b8be-7c6de66d65d6" alt="About Appilot" style="width: 40px; height: 40px; vertical-align: middle;">
-              </td>
-            </tr>
-            <tr>
-              <td style="padding: 16px;">
-                <strong style="color: black; font-size: 18px;">About Appilot</strong><br>
-                <span style="color: grey;">Learn more about Appilot’s mission and the team behind...  </span>
-              </td>
-            </tr>
-          </table>
-        </a>
-      </td>
-      <!-- Blog Card -->
-      <td style="padding: 16px;">
-        <a href="https://medium.com/@appilot" target="_blank" style="text-decoration: none;">
-          <table style="border: 1px solid lightgrey; border-radius: 10px; width: 300px; background-color: #ffffff;">
-            <tr>
-              <td style="padding: 16px;">
-                <img src="https://github.com/user-attachments/assets/21a93c04-4192-4488-9ac1-f2aede56e96b" alt="Blog" style="width: 40px; height: 40px; vertical-align: middle;">
-              </td>
-            </tr>
-            <tr>
-              <td style="padding: 16px;">
-                <strong style="color: black; font-size: 18px;">Blog</strong><br>
-                <span style="color: grey;">Stay updated with the latest news, tips, and insights from Appilot.</span>
-              </td>
-            </tr>
-          </table>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<br>
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/4cfd71e3-9099-4ce2-b4ca-0a49ee9c9486" alt="Manage Mobile Automation" width="680">
-  <br>
-  <a href="https://appilot.app/contact-us" target="_blank">
-    <img src="https://github.com/user-attachments/assets/cb1e56ee-ec23-4d6e-b8de-d6b23bfd5e35" alt="Contact Us" width="200">
-  </a>
-</div>
-
+**Telegram:** [appilotdev](https://t.me/appilotdev)
 
